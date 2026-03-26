@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -19,7 +20,7 @@
             box-sizing: border-box;
             border: 1px solid #ccc;
             position: relative;
-            background-image: url('https://seu-link-da-logo-aqui.png'); /* Substitua pelo link da sua logo no GitHub */
+            background-image: url('https://github.com/Ylma2025/ylmacakesfesta/blob/main/1774000007937.png'); /* Substitua pelo link da sua logo no GitHub */
             background-repeat: no-repeat;
             background-position: center;
             background-size: 60%;
